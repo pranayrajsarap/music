@@ -1,0 +1,39 @@
+div{
+    text-align: center;
+    padding-top: 23%;
+    
+}
+
+
+body{   
+    background-image:url('1.jpg');
+    background-position: center;
+    
+}
+
+.sound{
+    width: 7%;
+    height: 11%;
+    text-align: center;
+    border-color: black;
+    border-radius: 10px solid;
+    color: white ;
+    margin: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    opacity: 100%;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.sound:hover{
+    border-color: gold;
+    border-radius: 10px solid;
+}
+
+.sub{
+    margin-top: 10px;
+    font-size: 35%;
+    font-weight: bold;
+    color: rgb(255, 20, 20);
+}
